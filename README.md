@@ -87,7 +87,7 @@ Passenger segmentation enables targeted improvements and personalized service of
 
 ##  How to Reproduce
 1. Clone repository:
-   git clone https://github.com/YOURUSERNAME/flight-passenger-satisfaction-analytics.git
+   git clone https://github.com/Haitham920/flight-passenger-satisfaction-analytics.git
    
 2. Install dependencies:
    pip install pandas
