@@ -54,11 +54,11 @@ images/
 ---
 
 ## Key Performance Indicators 
-Overall Satisfaction Rate: 43.9%
-Satisfaction by Class (Business vs Economy)
-Satisfaction by Travel Type (Business vs Personal)
-Loyal vs Disloyal Customer Satisfaction
-Average Delay by Satisfaction Level
+-Overall Satisfaction Rate: 43.9%
+-Satisfaction by Class (Business vs Economy)
+-Satisfaction by Travel Type (Business vs Personal)
+-Loyal vs Disloyal Customer Satisfaction
+-Average Delay by Satisfaction Level
 
 ---
 
